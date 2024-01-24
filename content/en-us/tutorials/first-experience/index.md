@@ -1,6 +1,6 @@
----
-title: Introduction to Roblox Studio
-description: Explains the process of creating a platformer experience to introduce the basics of Roblox Studio.
+--
+footballers
+🏈🏈🏈🏈🏈🏈🏈🏈
 ---
 
 This tutorial explains the basics of [Roblox Studio](../../studio/setting-up-roblox-studio.md) by building, playtesting, and publishing a simple platformer experience. Follow each section and learn how to:
